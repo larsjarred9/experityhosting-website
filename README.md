@@ -17,7 +17,9 @@ Larsjarred9 (Lars)
  - Backend Developer
 
 ## Built With
-* [Materialize CSS](http://www.materialize.com) - The web framework used
+* [Materialize CSS](http://www.materialize.com) - The frond-end web framework
+* [Symfony 4.0.1](https://symfony.com) - The back-end PHP framework
+* [Twig Templating Engine](https://twig.symfony.com) - Front end PHP/HTML templating engine
 
 We will keep this list updated.
 
