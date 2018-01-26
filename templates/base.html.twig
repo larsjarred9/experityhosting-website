@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    {%  block stylesheets %}
+        <link rel="stylesheet" href="{{ asset("assets/build/css/material-icons.css") }}" type="text/css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+        <link rel="stylesheet" href="{{ asset("assets/build/css/expirityHosting.css") }}" type="text/css">
+    {% endblock %}
+</head>
+<body>
+    {% include 'partials/navigation.html.twig' %}
+    {% include 'partials/header.html.twig' %}
+
+    {% block body %}{% endblock %}
+
+    {% block javascripts %}
+        <script type="text/javascript">window.$crisp = [];
+            window.CRISP_WEBSITE_ID = "bd171c6e-ee8e-460a-9ff3-40f6fc9e4864";
+            (function () {
+                d = document;
+                s = d.createElement("script");
+                s.src = "https://client.crisp.chat/l.js";
+                s.async = 1;
+                d.getElementsByTagName("head")[0].appendChild(s);
+            })();
+        </script>
+        <script type="text/javascript" src="{{ asset("assets/build/js/jQuery.js") }}"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+        <script type="text/javascript" src="{{ asset("assets/build/js/expirityHosting.js") }}"></script>
+    {%  endblock %}
+</body>
+</html>

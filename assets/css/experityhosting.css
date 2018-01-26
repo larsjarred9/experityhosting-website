@@ -1,0 +1,14 @@
+header {
+    height: 12px;
+    text-align: center;
+}
+
+.slider .indicators {
+    position: relative;
+    bottom: 40px;
+    z-index: 100;
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: #D32F2F;
+}
