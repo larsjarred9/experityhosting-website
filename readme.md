@@ -16,11 +16,11 @@ Larsjarred9 (Lars)
  - Developer www.experityhosting.eu
  - Backend Developer
  
-  Cornedb2 (Corne)
+ Cornedb2 (Corne)
  - COO www.experityhosting.eu
  - Front end Developer
  
-   Dengisan (Dennis)
+ Dengisan (Dennis)
  - Developer www.experityhosting.eu
  - Back end Developer
 
