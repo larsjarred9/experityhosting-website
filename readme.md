@@ -9,12 +9,21 @@ This project is currently build by 2 developers.
 Larsjarred9 (Lars)
  - Project Leader
  - CEO www.experityhosting.eu
- - Front end
+ - Front end Developer
  
- Reashetyr (?)
+ Reashetyr (Gio)
  - Second Project Leader
  - Developer www.experityhosting.eu
  - Backend Developer
+ 
+  Cornedb2 (Corne)
+ - COO www.experityhosting.eu
+ - Front end Developer
+ 
+   Dengisan (Dennis)
+ - Developer www.experityhosting.eu
+ - Back end Developer
+
 
 ## Built With
 * [Materialize CSS](http://www.materialize.com) - The frond-end web framework
