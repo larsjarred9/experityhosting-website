@@ -4,7 +4,7 @@
 We are buidling a new site for www.experityhosting.eu. This is for my personal Portfolio. 
 
 ## The Team
-This project is currently build by 2 developers.
+This project is currently build by 4 developers.
 
 Larsjarred9 (Lars)
  - Project Leader
