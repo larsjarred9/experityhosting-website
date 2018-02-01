@@ -21,7 +21,7 @@ Larsjarred9 (Lars)
  - Front end Developer
  
  Dengisan (Dennis)
- - Developer www.experityhosting.eu
+ - CBO www.experityhosting.eu
  - Back end Developer
 
 
